@@ -5,4 +5,4 @@ Github Practice
 
 * Here is a change
 
-* Here is a line for conflict 
+* Here is a line for conflict -- will this work? 
